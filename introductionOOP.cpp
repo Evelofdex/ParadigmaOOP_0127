@@ -17,6 +17,7 @@ class Mahasiswa{
 int main(){
     Mahasiswa mhs; //object
     mhs.nim = 2022;
+    mhs.nama = "Abra";
 }
 
 
